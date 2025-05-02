@@ -1,6 +1,3 @@
-Aquí tienes el `README.md` actualizado con símbolos de estilo gótico, místico o religioso, evocando una estética tipo *Heavenly/Church*:
-
-````markdown
 # ✟ MARTYR — AI-Powered Local Audio Mastering
 
 **MARTYR** is an offline, sacred-inspired mastering engine forged in Python. It emulates the divine touch of professional studio engineering using deep machine learning — all within the sanctuary of your local machine.
@@ -81,8 +78,3 @@ All code sanctified © 2025 [martired.com](https://martired.com)
 MARTYR is a devotion to sonic integrity. It serves creators who desire commandment over their sound without surrendering it to the digital heavens.
 
 > *“Let no tone fall to vanity. Let every master ring with conviction.”*
-
-```
-
-Este formato no solo transmite solemnidad sino que conecta con la estética simbólica que rodea la marca “MARTYR”. Se adapta perfectamente a una presentación en GitHub con personalidad fuerte y sin concesiones.
-```
