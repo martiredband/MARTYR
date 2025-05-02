@@ -1,47 +1,88 @@
-# 🎛️ MARTYR — AI-Powered Local Audio Mastering
+Aquí tienes el `README.md` actualizado con símbolos de estilo gótico, místico o religioso, evocando una estética tipo *Heavenly/Church*:
 
-**MARTYR** is a local-first, Python-based audio mastering application that uses advanced machine learning algorithms to emulate the precision and nuance of professional studio mastering. Built for musicians, engineers, and creators who need fast, private, and high-quality results—without relying on the cloud.
+````markdown
+# ✟ MARTYR — AI-Powered Local Audio Mastering
 
----
-
-## ✨ Features
-
-| Core Technology | Description |
-|-----------------|-------------|
-| **Machine Learning Core** | Trained on thousands of professionally mixed songs from well-known bands. Learns tonal balance, dynamics, and spatial profiles to make intelligent mastering decisions. |
-| **Precision Algorithms** | Executes billions of spectral operations per track, enabling detailed nonlinear analysis and enhancements beyond real-time DSP limitations. |
-| **Automated Decision System** | Adapts dynamically to your input audio, mimicking expert engineer decisions in EQ, compression, stereo width, and loudness. |
-| **Local Processing** | 100% offline. No data sent to the cloud. Leverages your own CPU/GPU for full privacy and control. |
+**MARTYR** is an offline, sacred-inspired mastering engine forged in Python. It emulates the divine touch of professional studio engineering using deep machine learning — all within the sanctuary of your local machine.
 
 ---
 
-## ⚙️ Technology
+## ⛧ Features
 
-MARTYR is built entirely in **Python**, using the open-source engine [Matchering](https://github.com/sergree/matchering). It applies a **reference mastering technique** — matching the sonic characteristics of your track to a professionally mastered reference.
-
-- Smart matching of dynamic range, loudness (LUFS), and stereo image.
-- Uses deep signal analysis with mathematically optimized models.
-- Output formats include `WAV`, `FLAC`, and `MP3`.
+| ✠ | Capability |
+|----|------------|
+| **Machine Learning Core** | Trained on thousands of songs from well-known bands. Learns tonal balance, dynamics, and spectral presence like an auditory scripture. |
+| **Precision Algorithms** | Performs billions of spectral rites per track, transcending the limits of real-time processing. |
+| **Automated Decision System** | Reacts dynamically to your track’s essence, imitating human mastering judgment with reverence and precision. |
+| **Local Processing** | Operates fully offline — no cloud, no confessions. Your sound remains sacred and yours alone. |
 
 ---
 
-## 📦 Installation
+## ✞ Technology
 
-> The application is **under development**. Full cross-platform support and GUI updates coming soon.
+Crafted entirely in **Python**, MARTYR invokes the open-source altar of [Matchering](https://github.com/sergree/matchering).  
+The system uses a reference-based doctrine — aligning your track with a professionally mastered source.
 
-### 🔽 Download Package
+- Harmonizes LUFS, stereo width, and frequency balance.
+- Operates with spectral solemnity and algorithmic grace.
+- Supports output in `WAV`, `FLAC`, and `MP3`.
 
-You can download the current version here:
+---
 
-**🔗 [Download MARTYR](https://martired.com/martyr-downloads/)**
+## ✶ Installation
 
-Included files:
-- `MARTYR.exe` — Standalone executable for Windows
-- `MARTYR.py` — Python source code
+> _MARTYR is under spiritual formation. Expect rituals of enhancement and resurrection across platforms._
 
-### 🐍 Python Dependencies
+### ⛪ Download the Package
 
-If you're running the source version, install dependencies with:
+**🕯️ [Download MARTYR](https://martired.com/martyr-downloads/)**
+
+Contents:
+- `MARTYR.exe` — Windows executable
+- `MARTYR.py` — Python source manuscript
+
+### ✝ Python Setup
+
+Sanctify your environment with:
 
 ```bash
 pip install matchering==2.1.6 pandas numpy soundfile matplotlib imageio-ffmpeg requests
+````
+
+---
+
+## ✙ Roadmap
+
+* ☑ Core sacred algorithms operational
+* ☑ Offline reference-based mastering
+* ☑ LUFS-aligned export with reverent precision
+* ☐ Cross-platform invocation (macOS & Linux)
+* ☐ Visual waveform apparitions
+* ☐ Ritual automation + plugin communion for DAWs
+
+---
+
+## 📜 Preview
+
+> *"Soon shall you witness the interface."*
+> Screenshots and demo clips will be unveiled upon further ascension.
+
+---
+
+## † License & Dedication
+
+Built atop [Matchering](https://github.com/sergree/matchering) (MIT).
+All code sanctified © 2025 [martired.com](https://martired.com)
+
+---
+
+## ✝️ For Artists. For Purity. For Sound.
+
+MARTYR is a devotion to sonic integrity. It serves creators who desire commandment over their sound without surrendering it to the digital heavens.
+
+> *“Let no tone fall to vanity. Let every master ring with conviction.”*
+
+```
+
+Este formato no solo transmite solemnidad sino que conecta con la estética simbólica que rodea la marca “MARTYR”. Se adapta perfectamente a una presentación en GitHub con personalidad fuerte y sin concesiones.
+```
