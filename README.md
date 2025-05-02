@@ -8,7 +8,7 @@
 
 | ✠ | Capability |
 |----|------------|
-| **Machine Learning Core** | Trained on thousands of songs from well-known bands. Learns tonal balance, dynamics, and spectral presence like an auditory scripture. |
+| **Machine Learning Core** | Trained on thousands of well-equalized songs from renowned bands. Learns tonal balance, dynamics, and spectral presence like an auditory scripture. |
 | **Precision Algorithms** | Performs billions of spectral rites per track, transcending the limits of real-time processing. |
 | **Automated Decision System** | Reacts dynamically to your track’s essence, imitating human mastering judgment with reverence and precision. |
 | **Local Processing** | Operates fully offline — no cloud, no confessions. Your sound remains sacred and yours alone. |
