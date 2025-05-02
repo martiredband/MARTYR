@@ -32,7 +32,7 @@ The system uses a reference-based doctrine — aligning your track with a profes
 
 ### ⛪ Download the Package
 
-**🕯️ [Download MARTYR](https://martired.com/martyr-downloads/)**
+**🕯️ [Download MARTYR]([https://martired.com/martyr-downloads/](https://github.com/martiredband/MARTYR/releases))**
 
 Contents:
 - `MARTYR.exe` — Windows executable
