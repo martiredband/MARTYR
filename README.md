@@ -59,10 +59,9 @@ pip install matchering==2.1.6 pandas numpy soundfile matplotlib imageio-ffmpeg r
 
 ---
 
-## 📜 Preview
+## 📸 Preview
 
-> *"Soon shall you witness the interface."*
-> Screenshots and demo clips will be unveiled upon further ascension.
+![MARTYR Preview](https://martired.com/wp-content/uploads/2025/05/Capture-1.webp)
 
 ---
 
