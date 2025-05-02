@@ -27,16 +27,7 @@ The system uses a reference-based doctrine — aligning your track with a profes
 ---
 
 ## ✶ Installation
-
-> _MARTYR is under spiritual formation. Expect rituals of enhancement and resurrection across platforms._
-
-### ⛪ Download the Package
-
 **https://github.com/martiredband/MARTYR/releases**
-
-Contents:
-- `MARTYR.exe` — Windows executable
-- `MARTYR.py` — Python source manuscript
 
 ### ✝ Python Setup
 
