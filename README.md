@@ -31,8 +31,6 @@ The system uses a reference-based doctrine — aligning your track with a profes
 
 ### ✝ Python Setup
 
-Sanctify your environment with:
-
 ```bash
 pip install matchering==2.1.6 pandas numpy soundfile matplotlib imageio-ffmpeg requests
 ````
@@ -49,24 +47,3 @@ pip install matchering==2.1.6 pandas numpy soundfile matplotlib imageio-ffmpeg r
 * ☐ Website Version + Extension
 * ☐ Only Stems mastering
 * ☐ Plugin for DAWs
-
----
-
-## 📸 Preview
-
-![MARTYR Preview](https://martired.com/wp-content/uploads/2025/05/Capture-1.webp)
-
----
-
-## † License & Dedication
-
-Built atop [Matchering](https://github.com/sergree/matchering) (MIT).
-All code sanctified © 2025 [martired.com](https://martired.com)
-
----
-
-## ✝️ For Artists. For Purity. For Sound.
-
-MARTYR is a devotion to sonic integrity. It serves creators who desire commandment over their sound without surrendering it to the digital heavens.
-
-> *“Let no tone fall to vanity. Let every master ring with conviction.”*
