@@ -44,9 +44,8 @@ pip install matchering==2.1.6 pandas numpy soundfile matplotlib imageio-ffmpeg r
 * ☑ Core sacred algorithms operational
 * ☑ Offline reference-based mastering
 * ☑ LUFS-aligned export with reverent precision
-* ☐ Cross-platform invocation (macOS & Linux)
-* ☐ Visual waveform apparitions
-* ☐ Ritual automation + plugin communion for DAWs
+* ☐ Visual improvements
+* ☐ Plugin for DAWs
 
 ---
 
